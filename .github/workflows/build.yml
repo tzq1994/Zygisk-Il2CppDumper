@@ -2,8 +2,8 @@ name: Build
 on:
   workflow_dispatch:
       inputs:
-        package_name:
-          description: "Package name of the game:"
+        package_name:com.xjskp.tv.hnsc
+          description: "Package name of the game:"com.xjskp.tv.hnsc
           required: true
 
 jobs:
